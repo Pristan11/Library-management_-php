@@ -1,0 +1,1 @@
+INSERT INTO `comment`(`CID`, `BID`, `SID`, `COMM`, `LOGS`) VALUES ( )
